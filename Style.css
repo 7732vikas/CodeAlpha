@@ -1,0 +1,37 @@
+body{
+    background-color: rgb(199, 226, 136);
+    margin: 0%;
+    padding: 0%;
+}
+center{
+    margin-top: 13%;
+    margin-left: 318px;
+    border-radius: 26px;
+   border-bottom-color: rgb(111, 71, 71);
+    background-color: aqua;
+    padding: 30px;
+    width: 50%;
+    position: relative;
+ text-align: center;
+}
+
+
+h2{
+    color: #62645d;
+    align-items: center;
+    font-size: 216%;
+}
+.box{
+    font-size: 178%;
+
+    font-family:Georgia, 'Times New Roman', Times, serif;
+}
+.box1{
+    font-size: 160%;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+}
+.box1 input{
+    font-size: 80%;
+    background-color: #62645d;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+}
